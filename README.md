@@ -1,4 +1,4 @@
-<h1 align="center">Myself Soumya Sankar Das🥸🥸😤😤</h1>
+<h1 align="center">🥸😤Myself Soumya Sankar Das😤🥸</h1>
 <h3 align="center">A passionate frontend developer from India whose expertise lies on ReactJS, Tailwind CSS, Redux Toolkit, Firebase</h3>
 
 <p align="left"> 
