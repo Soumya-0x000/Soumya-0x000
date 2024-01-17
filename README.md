@@ -13,17 +13,17 @@
 
 - 🤝 I’m looking for help with [Movix](https://github.com/Soumya-0x000/Movix)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-mu-72.vercel.app/](https://portfolio-five-mu-72.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-five-mu-72.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav)
 
 - 💬 Ask me about **ReactJS, Tailwind CSS**
 
 - 📫 How to reach me **soumyadas429@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-1](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-1)
+- 📄 Know about my experiences [My CV](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-1)
 
-- ⚡ Fun fact **Gand me aag lagi padi ha vai, fun karne ka mood nhi ha...... 🙂🤡**
+- ⚡ Fun fact **Gand fati padi ha vai, fun karne ka mood nhi ha...... 🙂🤡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya-0x000&show_icons=true&locale=en" alt="soumya-0x000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-0x000&" alt="soumya-0x000" /></p>
-### Hi there 👋
 
 <!--
 **Soumya-0x000/Soumya-0x000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
