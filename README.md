@@ -1,12 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Soumya-0x000/snk](https://github.com/Platane/snk)_
-
-
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/ce6d8fce-23e1-48d8-a986-edb79064e026)
 
 [![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
@@ -27,6 +18,14 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t" alt="t" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Soumya-0x000/snk](https://github.com/Platane/snk)_
 
 
 ## 🌐 Socials:
