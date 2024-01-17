@@ -1,6 +1,5 @@
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/58764c4a-8e6a-4b30-b068-7f48101be7bc)
 
-
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/d3d729cb-c669-4bbf-ab65-e94b8968fe24)
 
 # 💫 About Me:
 A passionate frontend developer from India whose expertise lies on ReactJS, Tailwind CSS, Redux Toolkit, Firebase
