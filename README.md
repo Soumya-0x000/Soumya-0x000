@@ -1,4 +1,4 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/58764c4a-8e6a-4b30-b068-7f48101be7bc)
+![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/d9e8252b-b3ec-47d0-a66b-31d21988aab1)
 
 
 # 💫 About Me:
