@@ -15,7 +15,7 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 
 - 📫 How to reach me **soumyadas429@gmail.com**
 
-- ⚡ Fun fact **Zindegi berang ha bro, no fun........💔🙃🙃**
+- ⚡ Fun fact: **Zindegi berang ha bro, no fun........💔🙃🙃**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
