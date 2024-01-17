@@ -1,11 +1,21 @@
 <h1 align="center">Myself Soumya Sankar Das🥸🥸😤😤</h1>
 <h3 align="center">A passionate frontend developer from India whose expertise lies on ReactJS, Tailwind CSS, Redux Toolkit, Firebase</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-0x000&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-0x000" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=soumya-0x000&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-0x000" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya-0x000" alt="soumya-0x000" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soumya-0x000" alt="soumya-0x000" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/@soumya_s_da" target="blank"><img src="https://img.shields.io/twitter/follow/@soumya_s_da?logo=twitter&style=for-the-badge" alt="@soumya_s_da" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/@soumya_s_da" target="blank">
+    <img src="https://img.shields.io/twitter/follow/@soumya_s_da?logo=twitter&style=for-the-badge" alt="@soumya_s_da" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Soumya-0x000/Portfolio)
 
@@ -21,7 +31,7 @@
 
 - 📫 How to reach me **soumyadas429@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav#overlay_document-preview-1)
+- 📄 Know about my experiences [My CV]()
 
 - ⚡ Fun fact: **Gand fati padi ha vai, fun karne ka mood nhi ha...... 🙂🤡**
 
