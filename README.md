@@ -42,7 +42,7 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 <img src=https://cdn.freebiesupply.com/logos/large/2x/quora-logo-png-transparent.png?&style=for-the-badge&logo=quora&logoColor=white alt=codepen style="margin-bottom: 5px width: 160px; height: 28px;" />
 </a>  
 <a href="https://twitter.com/DroidSsd" target="_blank">
-<img src=https://logohistory.net/wp-content/uploads/2023/02/Twitter-Log%D0%BE.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=codepen style="margin-bottom: 5px width: 160px; height: 28px;" />
+<img src=https://news.topusainsights.com/wp-content/uploads/2023/07/twitter-x-logo.jpg?&style=for-the-badge&logo=twitter&logoColor=white alt=codepen style="margin-bottom: 5px width: 160px; height: 28px;" />
 </a>  
 </div>  
 
@@ -60,4 +60,7 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in)
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ml3snmpip3hialcrswlf74hqmy&cover_image=true&theme=default&show_offline=false&background_color=364947&interchange=false&bar_color_cover=true&bar_color=25e61e" /></div>  
  
