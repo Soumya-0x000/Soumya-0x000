@@ -60,16 +60,11 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-  <a href="https://github.com/Soumya-0x000/Movix" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-0x000&repo=Movix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/Soumya-0x000/Portfolio" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-0x000&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-<div width="100%" align="center">
-  <a href="https://github.com/Soumya-0x000/React-Admin-Dashboard" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-0x000&repo=React-Admin-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
+
+<a href="https://github.com/Soumya-0x000/Movix" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-0x000&repo=Movix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/Soumya-0x000/React-Admin-Dashboard" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-0x000&repo=React-Admin-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
