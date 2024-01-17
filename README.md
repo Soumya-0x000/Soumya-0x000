@@ -99,7 +99,7 @@
     <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" alt="git" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" alt="github" width="40" height="40"/>
+    <img src="https://pngimg.com/uploads/github/github_PNG28.png" alt="github" width="40" height="40"/>
   </a>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
