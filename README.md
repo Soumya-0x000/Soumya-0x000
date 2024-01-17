@@ -7,9 +7,9 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 
 - 🤝 I’m looking for help with [Movix](https://github.com/Soumya-0x000/Movix)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-mu-72.vercel.app/](https://portfolio-five-mu-72.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-five-mu-72.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/soumya-sankar-das-874085221/](https://www.linkedin.com/in/soumya-sankar-das-874085221/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/soumya-sankar-das-874085221/)
 
 - 💬 Ask me about **ReactJS, Tailwind CSS**
 
