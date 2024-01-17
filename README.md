@@ -25,9 +25,6 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Soumya-0x000/Soumya-0x000/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Soumya-0x000/snk](https://github.com/Platane/snk)_
-
-
 ## 🌐 Socials:
 <div align="left">
 <a href="https://github.com/Soumya-0x000" target="_blank">
