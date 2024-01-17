@@ -1,7 +1,22 @@
 # 💫 About Me:
 A passionate frontend developer from India whose expertise lies on ReactJS, Tailwind CSS, Redux Toolkit, Firebase
 
+- 🔭 I’m currently working on [Portfolio](https://github.com/Soumya-0x000/Portfolio)
 
+- 🌱 I’m currently learning **NextJS**
+
+- 🤝 I’m looking for help with [Movix](https://github.com/Soumya-0x000/Movix)
+
+- 👨‍💻 All of my projects are available at [https://portfolio-five-mu-72.vercel.app/](https://portfolio-five-mu-72.vercel.app/)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/soumya-sankar-das-874085221/](https://www.linkedin.com/in/soumya-sankar-das-874085221/)
+
+- 💬 Ask me about **ReactJS, Tailwind CSS**
+
+- 📫 How to reach me **soumyadas429@gmail.com**
+
+- ⚡ Fun fact **Zindegi berang ha bro, no fun........💔🙃🙃**
+- 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SSD_Droid) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@SSD-Droid) 
 
