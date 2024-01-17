@@ -19,7 +19,6 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Soumya S. Das) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soumya Sankar Das) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Soumya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17898901) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DroidSsd) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@SSD-Droid) 
 
 ## Connect with me  
 <div align="center">
@@ -40,6 +39,9 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 </a>
 <a href="https://codepen.com/@SSD-Droid" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.quora.com/profile/Soumya-1406" target="_blank">
+<img src=https://img1.pnghut.com/1/4/14/aqeTwEyKJV/social-media-quora-symbol-logo-red.jpg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
