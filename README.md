@@ -19,8 +19,6 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 
 
 ## 🌐 Socials:
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/Soumya-0x000" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -40,8 +38,8 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 <a href="https://codepen.com/@SSD-Droid" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.quora.com/profile/Soumya-1406" target="_blank">
-<img src=https://img1.pnghut.com/1/4/14/aqeTwEyKJV/social-media-quora-symbol-logo-red.jpg?&style=for-the-badge&logo=quora&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+ <a href="https://www.quora.com/profile/Soumya-1406" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
