@@ -59,8 +59,4 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 ![](https://github-contributor-stats.vercel.app/api?username=Soumya-0x000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in)
-
-
-/*<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ml3snmpip3hialcrswlf74hqmy&cover_image=true&theme=default&show_offline=false&background_color=364947&interchange=false&bar_color_cover=true&bar_color=25e61e" /></div>  */
- 
+[![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
