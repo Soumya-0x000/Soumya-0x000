@@ -16,8 +16,10 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 - 📫 How to reach me **soumyadas429@gmail.com**
 
 - ⚡ Fun fact **Zindegi berang ha bro, no fun........💔🙃🙃**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t&label=Profile%20views&color=0e75b6&style=flat" alt="t" /> </p>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t" alt="t" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -63,5 +65,4 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soumya-0x000&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
+
