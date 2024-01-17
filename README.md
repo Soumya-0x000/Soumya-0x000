@@ -41,6 +41,9 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 <a href="https://www.quora.com/profile/Soumya-1406" target="_blank">
 <img src=https://cdn.freebiesupply.com/logos/large/2x/quora-logo-png-transparent.png?&style=for-the-badge&logo=quora&logoColor=white alt=codepen style="margin-bottom: 5px width: 160px; height: 28px;" />
 </a>  
+<a href="https://www.quora.com/profile/Soumya-1406" target="_blank">
+<img src=https://i.pinimg.com/originals/2b/a7/17/2ba717ac010d3b9f8d26e9db4da291b8.jpg?&style=for-the-badge&logo=twitter&logoColor=white alt=codepen style="margin-bottom: 5px width: 160px; height: 28px;" />
+</a>  
 </div>  
 
 # 💻 Tech Stack:
