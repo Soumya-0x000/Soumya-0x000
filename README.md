@@ -1,5 +1,6 @@
 ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/cb2edfbe-d9d8-4a40-a441-cf2c72124d15)
 
+[![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
 
 # 💫 About Me:
 A passionate frontend developer from India whose expertise lies on ReactJS, Tailwind CSS, Redux Toolkit, Firebase
@@ -13,7 +14,6 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 - ⚡ Fun fact: **Zindegi berang ha bro, no fun........💔🙃🙃**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Soumya-0x000&icon=0&color=8)](https://visitcount.itsvg.in) 
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t" alt="t" /></a> </p>
 
