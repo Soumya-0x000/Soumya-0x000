@@ -92,7 +92,7 @@
     <img src="https://cdn.dribbble.com/users/3490038/screenshots/13820034/motion_logo_dribbble_dark2_4x.png" alt="framerMotion" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27659%2Fmaterial-ui&psig=AOvVaw2F4wZiyZpkhjK7EB6JZbEm&ust=1705569352789000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCOiD74yL5IMDFQAAAAAdAAAAABAE" alt="materialUI" width="40" height="40"/>
+    <img src="https://spin.atomicobject.com/wp-content/uploads/20180817202431/material-ui.png" alt="materialUI" width="40" height="40"/>
   </a>
 </p>
 
