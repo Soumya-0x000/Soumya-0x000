@@ -1,4 +1,6 @@
-![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/d9e8252b-b3ec-47d0-a66b-31d21988aab1)
+<div align="center">
+  ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/0882142c-f06f-4067-98b8-6e2d3404d9f1)
+</div>
 
 
 # 💫 About Me:
