@@ -7,8 +7,6 @@
 # 💫 About Me:
 A passionate frontend developer from India whose expertise lies on ReactJS, Tailwind CSS, Redux Toolkit, Firebase
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Soumya-0x000/Portfolio)
-
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/soumya-sankar-das-874085221/)
 
 - 📫 How to reach me **soumyadas429@gmail.com**
