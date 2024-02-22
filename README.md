@@ -1,7 +1,7 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/Soumya-0x000/Soumya-0x000/assets/80732586/ce6d8fce-23e1-48d8-a986-edb79064e026)
 
-<div align="center">
-        <img alt="Visitor Stats" src="https://widgetbite.com/stats/Soumya-0x000"/>  
+<div align="center" >
+        <img alt="Visitor Stats" src="https://widgetbite.com/stats/Soumya-0x000" style="width: 5rem;/>  
 </div> 
 
 # 💫 About Me:
