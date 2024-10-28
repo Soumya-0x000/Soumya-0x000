@@ -54,6 +54,7 @@ A passionate frontend developer from India whose expertise lies on ReactJS, Tail
 </div>  
 
 
+[![An image of @soumya0x000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya0x000)](https://holopin.io/@soumya0x000)
 
 
 
